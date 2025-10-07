@@ -12,9 +12,9 @@
 
 ## 🌟 **Live Demo**
 
-🔗 **Web App:** [Deploy on Streamlit Cloud] - *Coming Soon!*  
-🔗 **API Docs:** [Deploy on Render/Railway] - *Coming Soon!*  
-🔗 **GitHub:** [Your Repository URL]
+🔗 **Web App:** https://anshulrawat2507-mental-health-classifier.streamlit.app ⚡  
+🔗 **API Docs:** [Coming Soon - Deploy on Render/Railway]  
+🔗 **GitHub:** https://github.com/anshulrawat2507/mental-health-classifier
 
 ---
 
