@@ -12,7 +12,7 @@
 
 ## 🌟 **Live Demo**
 
-🔗 **Web App:** https://anshulrawat2507-mental-health-classifier.streamlit.app ⚡  
+🔗 **Web App:** https://mental-health-classifier-84vtafmggw42uxyj4gnkks.streamlit.app/ ⚡  
 🔗 **API Docs:** [Coming Soon - Deploy on Render/Railway]  
 🔗 **GitHub:** https://github.com/anshulrawat2507/mental-health-classifier
 
